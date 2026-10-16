@@ -1,0 +1,4 @@
+#ignore junk files from compiling
+*.o
+cwsi_monitor
+
