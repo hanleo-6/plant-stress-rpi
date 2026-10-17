@@ -1,4 +1,5 @@
 #ignore junk files from compiling
 *.o
 cwsi_monitor
+test/test_runner
 
